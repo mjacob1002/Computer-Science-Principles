@@ -1,8 +1,8 @@
 sample outputs:
 
-gmail -> liamg%5
-netflix -> xilften&7
-spotify -> yfitops&7
-amazon -> nozama^6
-scratch -> hctarcs&7
+gmail -> liamg%5120
+netflix -> xilften&75040
+spotify -> yfitops&75040
+amazon -> nozama^6720
+scratch -> hctarcs&75040
 
