@@ -1,0 +1,14 @@
+1. Retrieve the site name
+2. get the length of the site
+3. reverse the site name
+4. compute lengthOfSite mod 10 and then hit Shift + that number
+5. Password is reversed site name with the special character in step 4 at the end. Finally, append the length of the site at the end of the password
+
+Example:
+
+site name is: facebook
+length of the site is: 8
+reverse facebook: koobecaf
+compute length mod 10: *
+create password: koobecaf*8.
+
