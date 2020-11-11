@@ -1,0 +1,8 @@
+sample outputs:
+
+gmail -> liamg%5
+netflix -> xilften&7
+spotify -> yfitops&7
+amazon -> nozama^6
+scratch -> hctarcs&7
+
