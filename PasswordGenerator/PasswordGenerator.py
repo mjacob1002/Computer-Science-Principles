@@ -22,6 +22,8 @@ def gen_password(site: str):
     password = password + special[size]
     # add the length of the site to the end of the string
     password = password + str(size)
+    # tag on the factorial of the size at the end
+    password = password + str(__factorial__(size))
     return password
 
 
@@ -31,7 +33,7 @@ def prompt():
     site = input()
     return site
 
-# function isn't used anymore, but good practice for Dynamic Programming
+# good practice for Dynamic Programming, computes the factorial of a number n
 def __factorial__(n: int):
     nums = [1]
     a: int
